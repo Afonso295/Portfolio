@@ -1,9 +1,15 @@
 <template>
-  <div as></div>
+  <div class="as">Este texto deve aparecer a vermelho</div>
 </template>
+
+<script>
+export default {
+  name: "HelloWorld",
+};
+</script>
 
 <style scoped>
 .as {
-  color: #888;
+  color: #ff0000;
 }
 </style>
