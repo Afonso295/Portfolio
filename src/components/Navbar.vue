@@ -25,7 +25,7 @@ export default {
 }
 
 .nome {
-  color: rgb(45, 40, 192);
+  color: rgb(59, 130, 246);
   font-size: 2vw;
   font-weight: bold;
 }
@@ -41,6 +41,7 @@ export default {
   top: 0;
   left: 0;
   right: 0;
+  z-index: 1000;
 }
 
 .container-nl2 {

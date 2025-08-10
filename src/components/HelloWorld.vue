@@ -1,9 +1,7 @@
-<template>
-  <div class="tb">Tudo Bem?</div>
-</template>
+<template>Hello World</template>
 
 <style scoped>
-.tb {
-  color: #000000;
+* {
+  color: #439bff;
 }
 </style>
