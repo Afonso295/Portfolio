@@ -3,8 +3,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
-    },
-    "moduleResolution": "node"
+    }
   },
-  "include": ["src/**/*.js", "src/**/*.vue"]
+  "include": ["src"]
 }
