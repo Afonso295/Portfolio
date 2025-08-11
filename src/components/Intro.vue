@@ -21,7 +21,7 @@ export default {
 </script>
 <style scoped>
 .container {
-  height: 530px;
+  height: 580px;
   width: 100%;
   background-color: rgb(241, 245, 251);
   padding-top: 2vh;
@@ -55,7 +55,7 @@ export default {
   gap: 8px;
 }
 img {
-  width: 23vw;
+  width: 23%;
   margin-right: 80px;
   border-radius: 50%;
   border: 3px solid white;
